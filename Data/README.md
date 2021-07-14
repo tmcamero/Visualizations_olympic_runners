@@ -12,4 +12,4 @@ CSV files used in code
 
 Run_events.csv file was created by filtering the data from athlete_events.csv for only athletes that participated in track and field events.
 
-Race_results2.csv was created by filtering the data from results.csv for only athletes that particpated in the 800 meter and marathon events.
+Race_results2.csv was created to fix the race times.  The format of race times was not consistant in the original csv file, which created errors when uploaded into R.
