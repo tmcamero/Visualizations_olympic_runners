@@ -2,7 +2,9 @@ Description of CSV files
 
 Kaggle Data
 
-Athlete_events.csv file is the "120 years of Olympic history: athletes and results".
+The CSV file containing the data for "120 years of Olympic history: athletes and results" was too large to be uploaded.  
+It can be found at: 
+https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results#
 
 Results.csv file is the "Olympic Track & Field Results".
 
