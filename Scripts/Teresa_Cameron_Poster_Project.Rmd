@@ -82,7 +82,7 @@ library(plyr)
 
 ```{r}
 # Load data for times
-times <- read.csv("/Users/teresacameron/Documents/House/MADS/Info Viz/Poster/race_results2.csv"
+times <- read.csv("https://raw.githubusercontent.com/tmcamero/Visualizations_olympic_runners/main/Data/race_results2.csv"
                     , stringsAsFactors = T
                     , header = T)
 ```
